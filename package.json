@@ -1,0 +1,14 @@
+{
+  "name": "dorofiykolya.references.inspector",
+  "displayName": "References Inspector",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "author": "https://github.com/dorofiykolya",
+  "description": "Assets/Tools/References",
+  "keywords": [
+    "reference",
+    "references"
+  ],
+  "dependencies": {},
+  "category": "Unity"
+}
